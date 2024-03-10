@@ -1,0 +1,33 @@
+# Hello world
+
+## Description
+A clear, short, and to the point description of my project will be included here. This section is to describe the importance of this project and what it does.
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
+
+## Installation
+Instructions on how to install your project locally.
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/project-name.git
+2. Navigate to the project directory:
+    'cd project-name'
+    Install the required dependencies:
+    'pip install -r requirements.txt'
+
+## Usage
+Instructions on how to use your project after installation.
+1. Run the python Script
+   'python script_name.py'
+2. Follow the on-screen prompts or provide specific instructions.
+
+## Screenshots
+screenshots of my project in action are included here.
+![Screenshot of my project](./images/helloworld_image.png)
+## Credits
+Kemi Odidi - Lead Developer
